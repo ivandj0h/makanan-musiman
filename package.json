@@ -1,0 +1,43 @@
+{
+  "name": "seasonal-foods",
+  "version": "1.0.0",
+  "private": true,
+  "description": "seasonal-foods",
+  "author": "beiatrix",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "dev": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@firebase/firestore": "^4.7.1",
+    "autoprefixer": "^10.4.20",
+    "date-fns": "^3.6.0",
+    "firebase": "^10.13.1",
+    "gatsby": "^5.13.7",
+    "gatsby-plugin-alias-imports": "^1.0.5",
+    "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-plugin-image": "^3.13.1",
+    "gatsby-plugin-manifest": "^5.13.1",
+    "gatsby-plugin-postcss": "^6.13.1",
+    "gatsby-plugin-sharp": "^5.13.1",
+    "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-transformer-sharp": "^5.13.1",
+    "postcss": "^8.4.43",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "typescript": "^5.3.3"
+  }
+}
