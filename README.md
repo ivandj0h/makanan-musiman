@@ -1,9 +1,8 @@
-
-# Seasonal Foods 👩🏻‍🌾
+# Makanan Musiman 👩🏻‍🌾
 
 > **What's in season right now? 🤔 🥬**
 
-### Built with... 💪😮‍💨
+## Dibuat menggunakan Tech-Stack
 
 - React
 - Gatsby
@@ -16,10 +15,6 @@
 yarn dev
 ```
 
-The site runs locally at <http://localhost:8000>
+Jalanin di Local development :  <http://localhost:8000>
 
-Explore site data at <http://localhost:8000/___graphql>
-
-### Sources 📚
-
-> - [USDA Seasonal Produce Guide](https://snaped.fns.usda.gov/resources/nutrition-education-materials/seasonal-produce-guide)
+Jalanin GraphQL di Local development : <http://localhost:8000/___graphql>
